@@ -18,3 +18,7 @@ Then in your code you can call like this
 `parseText(String)` 
 
 You can render the returned value to the DOM or use any view library of your choice to render it
+
+Contributors 
+
+@CoolNerd504
