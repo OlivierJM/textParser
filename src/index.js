@@ -7,17 +7,16 @@ function parseText(text) {
   
     spacedWords.map((word, i) => {
       if (!word.indexOf("_")) {
-        let newWord = <span style={{ color: "blue" }}>{word.substring(1)}</span>;
+        let newWord = `<span style="color: blue">${word.substring(1)}</span>`;
         spacedWords[i] = newWord;
       }
       if (!word.indexOf("*")) {
         let starredWord = (
-          <span style={{ color: "red" }}>{word.substring(1)}</span>
+          `<span style="color: red ">${word.substring(1)}</span>`
         );
         spacedWords[i] = starredWord;
       }
     });
-    
     return spacedWords;
   }
 
