@@ -2,8 +2,14 @@
   "name": "text-parser",
   "version": "0.1.0",
   "description": "Parses a given text to different tags depending on added symbol",
-  "main": "index.js",
   "author": "olivierjm",
+  "private": false,
   "license": "MIT",
-  "private": false
+  "repository": "https://github.com:OlivierJM/textParser.git",
+  "main": "index.js",
+  "keywords": [
+    "parse",
+    "npm",
+    "package"
+  ]
 }
