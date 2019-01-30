@@ -1,6 +1,8 @@
 # text-parser
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![minified size](https://img.shields.io/bundlephobia/min/:text-parser.svg)]()
+
 
 > This is a very tiny module that parses your text into different format depending on given tags.
 
