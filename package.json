@@ -1,5 +1,5 @@
 {
-  "name": "text-parser",
+  "name": "text-tag-parser",
   "version": "0.1.0",
   "description": "Parses a given text to different tags depending on added symbol",
   "author": "olivierjm",
