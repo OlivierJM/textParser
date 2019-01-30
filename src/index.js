@@ -1,4 +1,6 @@
 function parseText(text) {
+  if (typeof text !== "string") throw new TypeError("Expected a string");
+  
     let filterSpace = item => item.length > 1;
     let spacedWords = text
       .split(" ")
