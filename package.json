@@ -1,0 +1,9 @@
+{
+  "name": "react-text-parser",
+  "version": "0.1.0",
+  "description": "Parses a given text to different tags depending on added symbol",
+  "main": "index.js",
+  "author": "olivierjm",
+  "license": "MIT",
+  "private": false
+}
